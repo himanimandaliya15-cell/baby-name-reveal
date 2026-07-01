@@ -1,11 +1,6 @@
 // Baby names and their meanings
 const babyNames = [
-    { name: "Sarah", meaning: "Princess - A name of grace and beauty" },
-    { name: "Emma", meaning: "Whole or Universal - Timeless and elegant" },
-    { name: "Olivia", meaning: "Olive Tree - Symbol of peace and wisdom" },
-    { name: "Sophia", meaning: "Wisdom - Intelligence and sophistication" },
-    { name: "Ava", meaning: "Like a Bird - Free spirited and playful" },
-    { name: "Isabella", meaning: "God's Promise - Full of hope and joy" }
+    { name: "Riyanshi", meaning: "Noble and Sublime - A name of strength and grace" }
 ];
 
 // Current baby name index
